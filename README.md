@@ -4,3 +4,6 @@
 
 ## 2
 ![](https://github.com/JuliaSoldatenkova/hw6/blob/master/CS7WYXrOriE.jpg?raw=true)
+
+## 3
+![](https://github.com/JuliaSoldatenkova/hw6/blob/master/6PLZyPDcStg.jpg?raw=true)
